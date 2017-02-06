@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>54069862024-35dhsb9iubfj0g53at1m1ke4n0glp1qh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.54069862024-35dhsb9iubfj0g53at1m1ke4n0glp1qh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDY04tVi0EjfZYKPxBWK1IZ8Iygs6ha_qQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>54069862024</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>https---github.com-nasirtrekker.NerdyGeeky-Adda</string>
+	<key>PROJECT_ID</key>
+	<string>nerdy-geeky-adda</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nerdy-geeky-adda.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<true/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:54069862024:ios:542e9152cb8908ea</string>
+	<key>DATABASE_URL</key>
+	<string>https://nerdy-geeky-adda.firebaseio.com</string>
+</dict>
+</plist>

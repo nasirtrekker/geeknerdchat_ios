@@ -1,0 +1,6 @@
+framework module Pods_NerdyGeeky_Adda {
+  umbrella header "Pods-NerdyGeeky Adda-umbrella.h"
+
+  export *
+  module * { export * }
+}
